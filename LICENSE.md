@@ -1,3 +1,4 @@
+# Open Data Commons Open Database License (ODbL)
 Data is retrieved from OpenStreepMap.org 
 
 OpenStreetMap® is open data, licensed under the [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/) by the [OpenStreetMap Foundation (OSMF)](https://osmfoundation.org/).
