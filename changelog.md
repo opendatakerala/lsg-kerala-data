@@ -1,3 +1,9 @@
+### 1.1.0
+* Added and corrected Wikidata Identifiers
+* Added Ulliyeri Grama Panchayat Missing Relation  
+* Added  LICENSE.md File
+* Started  changelog.md 
+
 ### 1.0.0
 * Intial release
 * Added Corporations, Municipalities, Gram panchayat boundaries.
