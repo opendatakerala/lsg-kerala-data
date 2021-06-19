@@ -4,7 +4,6 @@ https://www.openstreetmap.org/copyright
 
 ![OpenStreetMap Kerala Community](img/OSMKerala.png)
 
-This Snapshot Maintained by OpenStreetMap Kerala Community by Naveen Francis (naveenpf) and Manoj Karingamadathil (manojkmohan). OSM Kerala Community Thanking Heinz Vieth (Heinz_V) for the 
-voluntary effort to make the admin level = 8 layers of Kerala
+This Snapshot Maintained by OpenStreetMap Kerala Community by Naveen Francis (naveenpf), Manoj Karingamadathil (manojkmohan) and Ark Arjun(arkArjun). OSM Kerala Community Thanking Heinz Vieth (Heinz_V) for the voluntary effort to make the admin level = 8 layers of Kerala
 
 In this repo, the vector data avalibale in geojson, kml and shape file format. We are making this as a pre-release. If any mistakes-error found fix it in www.OpenStreetMap.in and report a issues here in repo.
